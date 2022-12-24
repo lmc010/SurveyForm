@@ -1,0 +1,311 @@
+.container {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left:-60px;
+    margin-top:40px;
+}
+
+.title {
+        font-size: 50px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-left:85px;
+        margin-top:40px;
+}
+
+.sub-title {
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    margin-top:-25px;
+    margin-left:80px;
+}
+
+button {
+border:none;
+background-color: rgb(9, 219, 114);
+color:aliceblue;
+font-weight: bold;
+width: 140px;
+height:30px;
+border-radius: 35px;
+margin-top:35px;
+margin-left:80px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container2 {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left:-60px;
+    margin-top:40px;
+}
+
+.title2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sub-title2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button2 {
+    margin-top:25px;
+    margin-left:-120px;
+    width: 110px;
+    height:20px;
+    font-size: 11px;
+}
+
+.button3 {
+    margin-top:-20px;
+    margin-left:120px;
+    width: 110px;
+    height:20px;
+    font-size: 11px;
+}
+
+.container3{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left:-25%;
+    margin-top:75%;
+}
+
+.title3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-top:-30px;
+    margin-left:-20px
+}
+
+.select {
+    border-radius:15px;
+    width: 225px;
+    height:15px;  
+    margin-left:-20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleform {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-left:45px;
+    font-weight: bold;
+}
+
+.button4 {
+    margin-top:35px;
+    margin-left:40px;
+    width: 120px;
+    height:20px;
+    font-size: 11px;
+}
+
+.button5 {
+    margin-top:-20px;
+    margin-left:165px;
+    width: 120px;
+    height:20px;
+    font-size: 11px;
+}
+
+.button6 {
+    margin-top:10px;
+    margin-left:38px;
+    width: 250px;
+    height:20px;
+    font-size: 11px;
+}
+
+.formchoise {
+    margin-left:42px;
+}
+
+.container4{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left:-20px;
+    margin-top:40px;
+}
+
+
+
+.title4{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 15px;
+        margin-top:-30px;
+        margin-left:-70px
+}
+
+
+.select2 {
+    border-radius:15px;
+    width: 225px;
+    height:15px;  
+    margin-left:-20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.formchoise2 {
+    margin-left:42px;
+}
+
+.button7 {
+    margin-top:35px;
+    margin-left:40px;
+    width: 120px;
+    height:20px;
+    font-size: 11px;
+}
+
+.button8 {
+    margin-top:-20px;
+    margin-left:165px;
+    width: 120px;
+    height:20px;
+    font-size: 11px;
+}
+
+.button9 {
+    margin-top:10px;
+    margin-left:38px;
+    width: 250px;
+    height:20px;
+    font-size: 11px;
+}
+
+.container5{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left:-20px;
+    margin-top:60px;
+}
+
+
+.title5 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 15px;
+        margin-top:-35px;
+        margin-left:-20px
+}
+
+.textarea{
+    width: 235px;
+    height:100px;
+    border-radius: 10px;
+    margin-top:-2px;   
+    margin-left:-10px
+}
+
+.button10 {
+    margin-top:15px;
+    margin-left:40px;
+    width: 120px;
+    height:20px;
+    font-size: 11px;
+}
+
+.button11 {
+    margin-top:-20px;
+    margin-left:165px;
+    width: 120px;
+    height:20px;
+    font-size: 11px;
+}
+
+.button12 {
+    margin-top:10px;
+    margin-left:38px;
+    width: 250px;
+    height:20px;
+    font-size: 11px;
+}
+
+.container6 {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left:-20px;
+    margin-top:60px;
+}
+
+.title6 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 15px;
+        margin-top:18px;
+        margin-left:40px;
+}
+
+.title7 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 15px;
+        margin-top:18px;
+        margin-left:40px;
+}
+
+.title8 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 15px;
+        margin-top:18px;
+        margin-left:40px;
+}
+.textarea2 {
+    border-radius: 20px;
+    width: 240px;
+    height:20px;
+    margin-top:-10px;
+    margin-left:28px;
+}
+
+.textarea3 {
+    border-radius: 20px;
+    width: 240px;
+    height:20px;
+    margin-top:-10px;
+    margin-left:28px;
+}
+
+.textarea4 {
+        border-radius: 20px;
+        width: 80px;
+        height:20px;
+        margin-top:-10px;
+        margin-left:28px;
+}
+
+.button13 {
+    margin-top:20px;
+    margin-left:30px;
+    width: 250px;
+    height:20px;
+    font-size: 11px;
+}
+
+.button14 {
+    margin-top:10px;
+    margin-left:30px;
+    width: 250px;
+    height:20px;
+    font-size: 11px;
+}
+
+@media screen and (
+    min-width:600px
+) 
+{
+   .button {
+    background-color: rgb(255, 0, 0);
+   }
+}
