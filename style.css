@@ -82,7 +82,7 @@ cursor:pointer;
 }
 
 .button2 {
-    margin-top:5%;
+    margin-top:4.5%;
     margin-left:-120px;
     width: 110px;
     height:20px;
@@ -95,7 +95,7 @@ cursor:pointer;
 }
 
 .button3 {
-    margin-top:-5.5%;
+    margin-top:-8.5%;
     margin-left:120px;
     width: 110px;
     height:20px;
@@ -149,13 +149,13 @@ cursor:pointer;
 
 .titleform {
     font-size: 15px;
-    margin-left:13%;
+    margin-left:15%;
     font-weight: bold;
 }
 
 .button4 {
     margin-top:5%;
-    margin-left:12%;
+    margin-left:18%;
     width: 115px;
     height:20px;
     font-size: 11px;
@@ -166,7 +166,7 @@ cursor:pointer;
 }
 
 .button5 {
-    margin-top:-5.5%;
+    margin-top:-4.5%;
     margin-left:47%;
     width: 115px;
     height:20px;
@@ -179,7 +179,7 @@ cursor:pointer;
 
 .button6 {
     margin-top:2%;
-    margin-left:11%;
+    margin-left:17%;
     width: 250px;
     height:20px;
     font-size: 11px;
@@ -223,14 +223,14 @@ cursor:pointer;
 .title4{
         font-size: 15px;
         margin-top:-30px;
-        margin-left:-70px
+        margin-left:-40px
 }
 
 .select2 {
     border-radius:15px;
     width: 220px;
     height:25px;  
-    margin-left:-12%;
+    margin-left:-7%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -238,12 +238,16 @@ cursor:pointer;
 
 
 .formchoise2 {
-    margin-left:14%;
+    margin-left:22%;
+}
+
+.titleform2 {
+    margin-left:23%;
 }
 
 .button7 {
-    margin-top:5%;
-    margin-left:11%;
+    margin-top:3%;
+    margin-left:22%;
     width: 115px;
     height:20px;
     font-size: 11px;
@@ -254,8 +258,8 @@ cursor:pointer;
 }
 
 .button8 {
-    margin-top:-5.5%;
-    margin-left:48%;
+    margin-top:-4.5%;
+    margin-left:50%;
     width: 115px;
     height:20px;
     font-size: 11px;
@@ -267,7 +271,7 @@ cursor:pointer;
 
 .button9 {
     margin-top:2%;
-    margin-left:10%;
+    margin-left:22%;
     width: 250px;
     height:20px;
     font-size: 11px;
@@ -293,7 +297,7 @@ cursor:pointer;
 .title5 {
         font-size: 15px;
         margin-top:-10%;
-        margin-left:-7%;
+        margin-left:-5%;
 }
 
 .characteres {
@@ -311,8 +315,8 @@ cursor:pointer;
 }
 
 .button10 {
-    margin-top:5%;
-    margin-left:12%;
+    margin-top:2%;
+    margin-left:20%;
     width: 115px;
     height:20px;
     font-size: 11px;
@@ -323,7 +327,7 @@ cursor:pointer;
 }
 
 .button11 {
-    margin-top:-5.65%;
+    margin-top:-4.5%;
     margin-left:49%;
     width: 115px;
     height:20px;
@@ -336,7 +340,7 @@ cursor:pointer;
 
 .button12 {
     margin-top:2%;
-    margin-left:12%;
+    margin-left:20%;
     width: 250px;
     height:20px;
     font-size: 11px;
@@ -355,40 +359,40 @@ cursor:pointer;
 }
 
 .container6 img {
-    width:250px;
+    width:300px;
    }
 
 .title6 {
         font-size: 15px;
         margin-top:18px;
-        margin-left:40px;
+        margin-left:25%;
 }
 
 .title7 {
         font-size: 15px;
         margin-top:18px;
-        margin-left:40px;
+        margin-left:25%;
 }
 
 .title8 {
         font-size: 15px;
         margin-top:18px;
-        margin-left:40px;
+        margin-left:25%;
 }
 .textarea2 {
     border-radius: 20px;
-    width: 240px;
+    width: 220px;
     height:20px;
     margin-top:-10px;
-    margin-left:28px;
+    margin-left:22%;
 }
 
 .textarea3 {
     border-radius: 20px;
-    width: 240px;
+    width: 220px;
     height:20px;
     margin-top:-10px;
-    margin-left:28px;
+    margin-left:22%;
 }
 
 .textarea4 {
@@ -396,12 +400,12 @@ cursor:pointer;
         width: 80px;
         height:20px;
         margin-top:-10px;
-        margin-left:28px;
+        margin-left:22%;
 }
 
 .button13 {
     margin-top:20px;
-    margin-left:30px;
+    margin-left:20%;
     width: 250px;
     height:20px;
     font-size: 11px;
@@ -413,7 +417,7 @@ cursor:pointer;
 
 .button14 {
     margin-top:10px;
-    margin-left:30px;
+    margin-left:20%;
     width: 250px;
     height:20px;
     font-size: 11px;
@@ -532,7 +536,7 @@ cursor:pointer;
 
    .button3 {
     margin-left:1315px;
-    margin-top: -20px;
+    margin-top: -35px;
     width: 150px;
    }
 
@@ -619,6 +623,11 @@ cursor:pointer;
 
    .select2{
     margin-left:1080px;
+   }
+
+   .titleform2 {
+    margin-left:802px;
+    margin-top: -380px;
    }
    
    .formchoise2 {
@@ -708,4 +717,6 @@ cursor:pointer;
 
 .textarea4 {
     width: 75px;
+}
+
 }
