@@ -4,42 +4,44 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tela 3</title>
+    <title>Conta</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
      <section class="container3">
-        <img src="imgs/two.png" width="300px">
+        <img src="imgs/two.png">
      </section>
     <section class="container3">
         <h1 class="title3">What is the status of your account? </h1>
         <select class="select">
             <option>I have not created an account yet</option>
+            <option>Inactive account</option>
+            <option>Active account</option>
         </select>
     </section>
 
     <form>
         <p class="titleform"> In which financial markets do you operate?</p>
-        <input type="radio" class="formchoise">
+        <input type="radio" class="formchoise" name="operation" required>
         <label>Stock market</label><br>
-        <input type="radio" class="formchoise">
+        <input type="radio" class="formchoise"name="operation" required>
         <label>foreign exchance</label><br>
-        <input type="radio" class="formchoise">
+        <input type="radio" class="formchoise"name="operation"required>
         <label>commodity</label><br>
-        <Input type="radio" class="formchoise">
+        <Input type="radio" class="formchoise"name="operation"required>
         <label>bond market</label><br>
-        <input type="radio" class="formchoise">
+        <input type="radio" class="formchoise"name="operation"required>
         <label>cryptocurrency market</label><br>
     </form>
 
     <button class="button4">
-        <p>Back</p>
+        <a href="Tela 4.html">Next</a>
     </button>
     <button class="button5">
-        <p>Next</p>
+        <a href="Tela 2.html">Back</a>
     </button>
     <button class="button6">
-        <p>Skip</p>
+        <a href="Tela 4.html">Skip</a>
     </button>
 
 </body>

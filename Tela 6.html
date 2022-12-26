@@ -4,31 +4,34 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tela 6 </title>
+    <title>Cadastro </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <section class="container6">
-        <img src="imgs/five.png" width="300px">
+        <img src="imgs/five.png">
      </section>
      <section>
         <h1 class="title6">Full Name: </h1>
-        <textarea class="textarea2" ></textarea>
+        <input type="text"class="textarea2" placeholder="Nasser Toghiri" name="firstname" required></input>
      </section> 
      <section>
         <h1 class="title7">Email: </h1>
-        <textarea class="textarea3" ></textarea>
+        <input type="email" class="textarea3" placeholder="N.Toghiri@Gmail.com" required></input>
      </section> 
      <section>
         <h1 class="title8">Age: </h1>
-        <textarea class="textarea4" ></textarea>
+        <input type="number" class="textarea4" placeholder ="_ _" required></input>
      </section> 
 
+     <span role="alert" id="nameError" aria-hidden="true">
+      </span>
+
      <button class="button13">
-        <p>Back</p>
+        <a href="Tela 5.html">Back</a>
     </button>
     <button class="button14">
-        <p>Submit</p>
+        <a href="Tela 1.html">Submit</a>
     </button>
 
 </body>
